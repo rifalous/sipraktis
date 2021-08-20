@@ -1,3 +1,5 @@
-# SIPARKA - Development
+# SIPRAKTIS - Development
 
-Sistem Informasi Penyusunan Rencana Kerja dan Anggaran Made Using PHP Framework Laravel
+SISTEM PENYUSUNAN PRA RENCANA KERJA DAN ANGGARAN KECAMATAN TERINTEGRASI DI LINGKUNGAN INTERNAL KECAMATAN RANCABALI 
+
+Made Using PHP Framework Laravel
