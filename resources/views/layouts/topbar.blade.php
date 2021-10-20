@@ -1,15 +1,15 @@
 
 
                 <!-- LOGO -->
-                <div class="topbar-left"  style="background: #36404e !important">
+                <div class="topbar-left"  style="background: #086763 !important">
 
                     <!-- Image logo -->
                     <a href="{{ url('/') }}" class="logo">
                         <span>
-                            <img src="{{ url('assets/images/logo-kab.png') }}" alt="" style="width: 130px;height: 110px;">
+                            <img src="{{ url('assets/images/logov2.png') }}" alt="" style="width: 200px;height: 80px;">
                         </span>
                         <i>
-                            <img src="{{ url('assets/images/logo-kab.png') }}" alt="" height="50">
+                            <img src="{{ url('assets/images/logov2.png') }}" alt="" width="50" height="50">
                         </i>
                     </a>
                 </div>

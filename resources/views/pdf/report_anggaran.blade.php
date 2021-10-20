@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Laporan Rekap Rencana Kerja Anggaran</title>
+	<title>Laporan Rekap Pra Rencana Kerja Anggaran</title>
 </head>
 <body>
 <style type="text/css">
@@ -46,7 +46,7 @@
 <table style="width: 100%; border:1px #ccc solid;">
 	<tr>
 		<td><img src="{{ url('assets/images/logo-kab.png') }}" alt="" style="padding:10px; width: 80px;height: 60px;"></td>
-		<td style="padding-right:130px"><center><p><strong>REKAP DATA RENCANA KERJA ANGGARAN</strong></p></center></td>
+		<td style="padding-right:130px"><center><p><strong>REKAP DATA PRA RENCANA KERJA ANGGARAN</strong></p></center></td>
 	</tr>
 <table>
 
@@ -67,13 +67,13 @@
 		<td style="padding-left:10px;padding-top:5px;padding-bottom:5px"><b>Organisasi</b></td>
 		<td align="center"><b>:</b></td>
 		<td>7-01.0-00.0-00.00</td>
-		<td>KECAMATAN BANJARAN</td>
+		<td>KECAMATAN RANCABALI</td>
 	</tr>
 	<tr>
 		<td style="padding-left:10px;padding-top:5px;padding-bottom:5px"><b>Sub Organisasi</b></td>
 		<td align="center"><b>:</b></td>
 		<td>7-01.0-00.0-00.00 . 01</td>
-		<td>KECAMATAN BANJARAN</td>
+		<td>KECAMATAN RANCABALI</td>
 	</tr>
 <table>
 
@@ -204,12 +204,12 @@
             <td style="height: 80px"></td>
         </tr>
         <tr>
-            <th class="text-center">FAISAL SULAEMAN, S.STP., M.Si</th>
+            <th class="text-center">DADANG HERMAWAN S S.IP., MAP</th>
             <th style="visibility:hidden" class="text-center">{{ Auth::user()->name }}</th>
             <th class="text-center">{{ $user->name }}</th>
         </tr>
         <tr>
-            <th class="text-center">NIP. 197507181996031007</th>
+            <th class="text-center">NIP. 19640827 199103 1 006</th>
             <td></td>
             <th class="text-center">NIP. {{ $user->nip }}</th>
         </tr>

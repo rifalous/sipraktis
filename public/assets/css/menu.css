@@ -89,7 +89,7 @@
     width: 225px;
     padding-top: 80px;
     z-index: 10;
-    background: #36404e;
+    background: #086763 ;
     bottom: 50px;
     margin-top: 0;
     padding-bottom: 70px;
@@ -214,10 +214,10 @@ body.fixed-left .side-menu.left {
 }
 #sidebar-menu .subdrop {
     color: #fff!important;
-    background-color: #313a46
+    background-color: #d64635
 }
 #sidebar-menu>ul>li>a {
-    color: #98a6ad;
+    color: #fff;
     display: block;
     padding: 12px 20px;
     margin: 2px 0
@@ -225,7 +225,7 @@ body.fixed-left .side-menu.left {
 #sidebar-menu>ul>li>a:hover {
     color: #fff;
     text-decoration: none;
-    background-color: #313a46
+    background-color: #d64635 
 }
 #sidebar-menu>ul>li>a>span {
     vertical-align: middle
@@ -256,7 +256,7 @@ body.fixed-left .side-menu.left {
     pointer-events: none;
     cursor: default;
     font-size: 11px;
-    color: #98a6ad;
+    color: #fff;
     font-family: 'Hind Madurai', sans-serif
 }
 .help-box {

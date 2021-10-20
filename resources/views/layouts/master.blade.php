@@ -119,7 +119,7 @@
                 </div> <!-- content -->
 
                 <footer class="footer">
-                    &copy; 2021 SIPARKA - Development | Kecamatan Banjaran
+                    &copy; 2021 SIPRAKTIS - Development | Kecamatan Rancabali
                 </footer>
 
             </div>

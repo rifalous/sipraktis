@@ -296,7 +296,7 @@ tr.shown td.details-control:before {
 
 #sidebar-menu>ul>li>a.active, #sidebar-menu>ul>li.active:not(a.subdrop) {
     color: #fff !important;
-    background-color: #313a46;
+    background-color: #d64635 ;
 }
 
 /* apalah */

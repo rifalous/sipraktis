@@ -10,10 +10,10 @@
     <div class="wrapper-page">
 
         <div class="m-t-40 account-pages">
-            <div class="text-center account-logo-box" style="background-color: #fff">
+            <div class="text-center account-logo-box" style="background-color: #086763">
                 <h2 class="text-uppercase">
                     <a href="index.html" class="text-success">
-                        <span><img src="assets/images/logo.png" alt=""></span>
+                        <span><img src="assets/images/logov2.png" alt="" width="320px" height="130px"></span>
                     </a>
                 </h2>
                 <!--<h4 class="text-uppercase font-bold m-b-0">Sign In</h4>-->
@@ -41,7 +41,7 @@
                                 <img src="{{ url('assets/images/hospital.jpg') }}" alt="" height="28">
                             </i>
                         </a> -->
-                        <h3>Sistem Informasi Penyusunan Rencana Kerja dan Anggaran</h3>
+                        <h4>Sistem Perencanaan Pra Rencana Kerja dan Anggaran Internal</h4>
                     </div><br>
 
                     <div class="form-group{{ $errors->has('email') ? ' has-error' : '' }}"">
@@ -101,7 +101,7 @@
 </div>
 
 <footer class="footerlogin">
-    &copy; 2021 SIPARKA - Development | Kecamatan Banjaran
+    &copy; 2021 SIPRAKTIS - Development | Kecamatan Rancabali
 </footer>
 
 @endsection

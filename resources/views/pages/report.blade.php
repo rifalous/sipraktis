@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-    Laporan Rekap Data Rencana Kerja Anggaran
+    Laporan Rekap Data Pra Rencana Kerja Anggaran
 @endsection
 
 @section('content')
@@ -12,10 +12,10 @@
   <div class="row">
 		<div class="col-xs-12">
 			<div class="page-title-box">
-        <h4 class="page-title">Laporan Rekap Data Rencana Kerja Anggaran</h4>
+        <h4 class="page-title">Laporan Rekap Data Pra Rencana Kerja Anggaran</h4>
         <ol class="breadcrumb p-0 m-0">
           <li class="active">
-            Rekap Rencana Kerja Anggaran
+            Rekap Pra Rencana Kerja Anggaran
           </li>
         </ol>
         <div class="clearfix"></div>
